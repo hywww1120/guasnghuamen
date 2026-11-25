@@ -1,0 +1,10 @@
+# TouchDesigner 自动备份与临时产物
+NewProject/Backup/
+NewProject/*.bak-*
+NewProject/NewProject.[0-9]*.toe
+
+# 调试/取证脚本与截图（本地用，不入库）
+_tdinspect/
+
+# 演示录屏
+*.mp4
